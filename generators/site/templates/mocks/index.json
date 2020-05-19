@@ -1,0 +1,16 @@
+{
+  "templateUid": "basic-page",
+  "renderData": {
+    "settings": {
+      "greeting": "It works!",
+      "body": "Welcome to the Mintere Sites. We're **excited** to have you. You'll be deploying a global site in no time."
+    },
+    "blocks": [
+      {
+        "type": "cta",
+        "header": "Read the documentation",
+        "href": "https://docs.mintere.site/"
+      }
+    ]
+  }
+}

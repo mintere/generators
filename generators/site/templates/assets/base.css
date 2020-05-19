@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+
+  background: #001f3f;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+.content {
+  background: white;
+  padding: 16px;
+  border-radius: 4px;
+  width: 400px;
+  margin: 100px auto;
+}

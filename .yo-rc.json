@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Mintere (mintere.com)",
+      "authorEmail": "hello@mintere.com",
+      "authorUrl": "mintere.com"
+    }
+  }
+}
