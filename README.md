@@ -1,4 +1,4 @@
-# generator-mintere-site [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-mintere [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 > Generate a new site for the Mintere Sites platform
 
 ## Installation
@@ -7,26 +7,18 @@ First, install [Yeoman](http://yeoman.io) and generator-mintere-site using [npm]
 
 ```bash
 npm install -g yo
-npm install -g generator-mintere-site
+npm install -g generator-mintere
 ```
 
 Then generate your new project:
 
 ```bash
-yo mintere-site
+yo mintere:site
 ```
-
-## Getting To Know Yeoman
-
- * Yeoman has a heart of gold.
- * Yeoman is a person with feelings and opinions, but is very easy to work with.
- * Yeoman can be too opinionated at times but is easily convinced not to be.
- * Feel free to [learn more about Yeoman](http://yeoman.io/).
 
 ## License
 
 Apache-2.0 © [Mintere (mintere.com)](mintere.com)
-
 
 [npm-image]: https://badge.fury.io/js/generator-mintere-site.svg
 [npm-url]: https://npmjs.org/package/generator-mintere-site
